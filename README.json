@@ -1,0 +1,199 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Technical writing"
+    },
+    {
+      "description": "Going with the trend of Docs as Code, more and more organizations and their technical writers have ditched word processors and switched to markup languages.",
+      "items": [],
+      "title": "Authoring formats"
+    },
+    {
+      "description": "DITA is an open source standard for creating topic-based structured technical documentations, which was originally created by IBM and was donated to OASIS in 2004.\nDITA was initially spread to high-tech companies like Adobe, Boeing, Siemens, and Nokia, and then become more and more popular in all industries.",
+      "items": [],
+      "title": "DITA"
+    },
+    {
+      "description": "Now, you know a bit about DITA 👏. It's time to practice 💃🕺!\nThat said, DITA is a bit complicated. Adopt a DITA-aware XML editor first, in case you are trapped in the tremendous DITA elements. Then, keep a 📙 book of DITA best practices at hand for reference at any time.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DITA 结构化写作指南：基于 Oxygen XML Author 和 GitLab 的技术文档开发实践",
+          "description": "Practical DITA best practices in Chinese for technical documentation teams that are new to DITA and Oxygen XML Author.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-21T07:23:55Z",
+            "owner": "EstelleRao",
+            "repo": "zh-oxygenxml-userguide",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jorsek's Technical Content Development Guide",
+          "description": "Developed by the maker of Heretto CCMS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-19T09:22:07Z",
+            "owner": "Jorsek",
+            "repo": "jorsek-cdg",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Best practices"
+    },
+    {
+      "description": "You can use DITA to improve your own technical documentation. If you don't have such resources, pick one of 📔 open source sample manuals written in DITA to see how it was written and think how to improve it.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DITA Open Toolkit Documentation",
+          "description": "Source code for the DITA-OT documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XSLT",
+            "last_commit": "2026-08-08T20:21:26Z",
+            "owner": "dita-ot",
+            "repo": "docs",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oxygen XML User Guide",
+          "description": "Source code for the Oxygen XML documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T13:24:19Z",
+            "owner": "oxygenxml",
+            "repo": "userguide",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DITA Mini Manual",
+          "description": "Mini owner's manual that published in 1960s rewritten in DITA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-12-23T07:50:03Z",
+            "owner": "flicstar",
+            "repo": "DITA-Mini-Manual",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DITA Style Guide",
+          "description": "Source code for The DITA Style Guide: Best Practices for Authors, written by Tony Self.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-28T07:38:01Z",
+            "owner": "hyperwrite",
+            "repo": "DITAStyleGuide",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LwDITA Code Samples",
+          "description": "Various manuals of a 1970s computer rewritten in Lightweight DITA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-01-07T13:08:26Z",
+            "owner": "DITAWriter",
+            "repo": "LwDITA_Code_Samples",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pilot Training Mitchell Bomber",
+          "description": "A pilot training manual (aviation document) rewritten in DITA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-02-20T14:34:01Z",
+            "owner": "DITAWriter",
+            "repo": "pilot_training_mitchell_bomber",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BTS Manual",
+          "description": "User manual of Berlin Text System written in DITA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-23T05:32:56Z",
+            "owner": "thesaurus-linguae-aegyptiae",
+            "repo": "BTS-Manual",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DITA Glossary Example",
+          "description": "A book named On Yacht Sailing rewritten in DITA to demonstrate how to implement glossaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-20T13:07:23Z",
+            "owner": "DITAWriter",
+            "repo": "dita_glossary_example",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Sample projects"
+    },
+    {
+      "description": "Developing content with accessibility in mind ensures that your websites, manuals or documents are meaningful and usable for as many people as possible.",
+      "items": [],
+      "title": "Content accessibility"
+    },
+    {
+      "description": "Equipping yourself with some programming skills will enable you to complete some really cool jobs, such as automating workflow and batch modifying.",
+      "items": [],
+      "title": "Text processing"
+    },
+    {
+      "description": "More and more professionals are sharing their invaluable experience and professional insights online, and so do technical writers. Let's learn from others!",
+      "items": [],
+      "title": "Knowledge sharing"
+    },
+    {
+      "description": "Join a live talk or an in-person presentation to connect yourself with your peers from all over the world.",
+      "items": [],
+      "title": "Professional communications"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T13:43:48.274Z",
+    "original_repository": "wongyah/awesome-technical-writing-learning",
+    "original_repository_sha": "f0b8933087712e5eded0598350771c957cc564ad",
+    "enhanced_repository": "enhansome/enhansome-technical-writing-learning",
+    "enhanced_repository_description": null,
+    "title": "Awesome Technical Writing Learning with stars"
+  }
+}
