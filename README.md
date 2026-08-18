@@ -7,7 +7,7 @@ Technical writing is an essential skill of conveying complex technical informati
 > \[!TIP]
 > All resources in this curated list are free, unless otherwise noted.
 
-Want to suggest a resource? Check out the [Contribution Guidelines](https://github.com/wongyah/awesome-technical-writing-learning/blob/main/contributing.md) ⭐ 51 | 🐛 0 | 📅 2025-07-25! 👐
+Want to suggest a resource? Check out the [Contribution Guidelines](https://github.com/wongyah/awesome-technical-writing-learning/blob/main/contributing.md) ⭐ 52 | 🐛 0 | 📅 2025-07-25! 👐
 
 ***
 
@@ -167,7 +167,7 @@ Can't wait to try it out? Just adopt a **✒️ Markdown editor**, then you are 
   * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,272 | 🐛 455 | 🌐 TypeScript | 📅 2026-06-13 - An extension to enrich Markdown features in VS Code, such as automatic creation of table of contents, auto completions, printing Markdown files to HTML.
   * [Markdown Table Maker](https://github.com/kaisugi/vscode-markdown-tablemaker?tab=readme-ov-file#readme) ⭐ 2 | 🐛 4 | 🌐 TypeScript | 📅 2022-12-08 - An extension to generate Markdown tables in an easy and intuitive way.
   * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf#readme) ⭐ 1,312 | 🐛 191 | 🌐 HTML | 📅 2026-08-11 - An extension to convert Markdown files to PDF, PNG, JPEG, or HTML.
-  * [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced#readme) ⭐ 4,432 | 🐛 209 | 🌐 HTML | 📅 2026-05-05 - An extension to enrich Markdown features in Atom and VS Code, featuring the integration of Pandoc.
+  * [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced#readme) ⭐ 4,433 | 🐛 209 | 🌐 HTML | 📅 2026-05-05 - An extension to enrich Markdown features in Atom and VS Code, featuring the integration of Pandoc.
 
 If you go deeper, you will find [the controversy over Markdown](https://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/).
 
@@ -414,4 +414,4 @@ Join a live talk or an in-person presentation to connect yourself with your peer
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
