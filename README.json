@@ -6,6 +6,139 @@
         {
           "children": [
             {
+              "node_type": "group",
+              "title": "Visual Studio Code (VS Code)",
+              "description": "Code editor developed by Microsoft, with built-in Markdown preview and many Markdown extensions.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Markdown Preview Enhanced",
+                  "description": "An extension to enrich Markdown features in Atom and VS Code, featuring the integration of Pandoc.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 34369372,
+                    "language": "HTML",
+                    "last_commit": "2026-05-05T01:40:20Z",
+                    "owner": "shd101wyy",
+                    "repo": "markdown-preview-enhanced",
+                    "stars": 4437
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Markdown All in One",
+                  "description": "An extension to enrich Markdown features in VS Code, such as automatic creation of table of contents, auto completions, printing Markdown files to HTML.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 77910704,
+                    "language": "TypeScript",
+                    "last_commit": "2026-06-13T04:49:10Z",
+                    "owner": "yzhang-gh",
+                    "repo": "vscode-markdown",
+                    "stars": 3276
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Markdown PDF",
+                  "description": "An extension to convert Markdown files to PDF, PNG, JPEG, or HTML.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 65667591,
+                    "language": "HTML",
+                    "last_commit": "2026-08-20T19:37:16Z",
+                    "owner": "yzane",
+                    "repo": "vscode-markdown-pdf",
+                    "stars": 1317
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Markdown Table Maker",
+                  "description": "An extension to generate Markdown tables in an easy and intuitive way.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 181188777,
+                    "language": "TypeScript",
+                    "last_commit": "2022-12-08T22:08:57Z",
+                    "owner": "kaisugi",
+                    "repo": "vscode-markdown-tablemaker",
+                    "stars": 2
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "Markdown is a lightweight markup language created by John Gruber in 2004. It has become a commonly used markup language to write technical documentations, especially those software documentations that host in GitHub or GitHub-like platforms.\nIf you are completely new to Markdown, the following 📔 guide is the best starting point for you:\nNow, you know a bit about Markdown 👏. It is easy-to-read, easy-to-write, and easy-to-learn, isn't it 😎?\nCan't wait to try it out? Just adopt a ✒️ Markdown editor, then you are ready 💪!\nIf you go deeper, you will find the controversy over Markdown.\nAs Markdown got popular, more and more Markdown parsers appeared. However, Markdown has no well-accepted standard until now. The Markdown syntax in each parser is to some extent different from others.\nAs a result, whenever you select a new Markdown tool, you must read through its 📙 user manual or documentation to know exactly what Markdown syntax it supports.\nIf you want to explore more resources about Markdown, see Awesome Markdown.",
+          "node_type": "group",
+          "title": "Markdown"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Visual Studio Code (VS Code)",
+              "description": "Code editor developed by Microsoft.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "reStructuredText",
+                  "description": "An extension to provide rich reStructuredText language support in VS Code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 46862173,
+                    "language": "TypeScript",
+                    "last_commit": "2026-04-01T04:31:47Z",
+                    "owner": "vscode-restructuredtext",
+                    "repo": "vscode-restructuredtext",
+                    "stars": 367
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "reStructuredText Syntax Highlighting",
+                  "description": "An extension to provide rich syntax highlighting and non-intrusive section navigation for reStructuredText in VS Code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 349746381,
+                    "language": "TypeScript",
+                    "last_commit": "2023-12-25T04:08:33Z",
+                    "owner": "trond-snekvik",
+                    "repo": "vscode-rst",
+                    "stars": 22
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "item",
+              "title": "reStructuredText Cheatsheet",
+              "description": "Downloadable two-page cheat sheet for reStructuredText syntax.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308455,
+                "language": "Shell",
+                "last_commit": "2026-07-22T03:48:48Z",
+                "owner": "ralsina",
+                "repo": "rst-cheatsheet",
+                "stars": 1157
+              }
+            }
+          ],
+          "description": "reStructuredText is a lightweight markup language that is more well-defined compared to Markdown and widely used for Python documentation.\nIf you are completely new to reStructuredText, the following 📔 introductions and tutorials are the best starting points for you:\nNow, you know a bit about reStructuredText 👏. Just adopt a ✒️ reStructuredText editor, then you can try it out 🍧!\nYou may forget an infrequently used syntax or not sure about a specific syntax during writing. Pick a 📔 cheat sheet or reference documentation at hand, which you will look for sooner or later.",
+          "node_type": "group",
+          "title": "reStructuredText"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -216,7 +349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:10:52.339Z",
+    "last_updated": "2026-08-24T14:50:02.699Z",
     "original_repository": "wongyah/awesome-technical-writing-learning",
     "original_repository_id": 750118872,
     "original_repository_sha": "f0b8933087712e5eded0598350771c957cc564ad",
