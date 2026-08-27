@@ -22,7 +22,7 @@
                     "last_commit": "2026-05-05T01:40:20Z",
                     "owner": "shd101wyy",
                     "repo": "markdown-preview-enhanced",
-                    "stars": 4435
+                    "stars": 4436
                   }
                 },
                 {
@@ -52,7 +52,7 @@
                     "last_commit": "2026-08-20T19:37:16Z",
                     "owner": "yzane",
                     "repo": "vscode-markdown-pdf",
-                    "stars": 1318
+                    "stars": 1319
                   }
                 },
                 {
@@ -349,9 +349,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:13:58.479Z",
-    "original_repository": "wongyah/awesome-technical-writing-learning",
-    "original_repository_id": 750118872,
+    "last_updated": "2026-08-27T12:06:14.847Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 750118872,
+      "language": null,
+      "last_commit": "2025-07-25T05:53:17Z",
+      "owner": "wongyah",
+      "repo": "awesome-technical-writing-learning",
+      "stars": 53
+    },
     "original_repository_sha": "f0b8933087712e5eded0598350771c957cc564ad",
     "enhanced_repository": "enhansome/enhansome-technical-writing-learning",
     "enhanced_repository_description": null,
