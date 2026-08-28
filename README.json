@@ -23,7 +23,8 @@
                     "owner": "shd101wyy",
                     "repo": "markdown-preview-enhanced",
                     "stars": 4435
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 },
                 {
                   "node_type": "item",
@@ -38,7 +39,8 @@
                     "owner": "yzhang-gh",
                     "repo": "vscode-markdown",
                     "stars": 3277
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 },
                 {
                   "node_type": "item",
@@ -52,8 +54,9 @@
                     "last_commit": "2026-08-20T19:37:16Z",
                     "owner": "yzane",
                     "repo": "vscode-markdown-pdf",
-                    "stars": 1321
-                  }
+                    "stars": 1323
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 },
                 {
                   "node_type": "item",
@@ -68,7 +71,8 @@
                     "owner": "kaisugi",
                     "repo": "vscode-markdown-tablemaker",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 }
               ]
             }
@@ -97,7 +101,8 @@
                     "owner": "vscode-restructuredtext",
                     "repo": "vscode-restructuredtext",
                     "stars": 367
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 },
                 {
                   "node_type": "item",
@@ -112,7 +117,8 @@
                     "owner": "trond-snekvik",
                     "repo": "vscode-rst",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 }
               ]
             },
@@ -129,7 +135,8 @@
                 "owner": "ralsina",
                 "repo": "rst-cheatsheet",
                 "stars": 1157
-              }
+              },
+              "first_seen": "2026-08-28T22:15:35.995Z"
             }
           ],
           "description": "reStructuredText is a lightweight markup language that is more well-defined compared to Markdown and widely used for Python documentation.\nIf you are completely new to reStructuredText, the following 📔 introductions and tutorials are the best starting points for you:\nNow, you know a bit about reStructuredText 👏. Just adopt a ✒️ reStructuredText editor, then you can try it out 🍧!\nYou may forget an infrequently used syntax or not sure about a specific syntax during writing. Pick a 📔 cheat sheet or reference documentation at hand, which you will look for sooner or later.",
@@ -153,7 +160,8 @@
                     "owner": "EstelleRao",
                     "repo": "zh-oxygenxml-userguide",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 },
                 {
                   "node_type": "item",
@@ -168,7 +176,8 @@
                     "owner": "Jorsek",
                     "repo": "jorsek-cdg",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 }
               ],
               "description": "Now, you know a bit about DITA 👏. It's time to practice 💃🕺!\nThat said, DITA is a bit complicated. Adopt a DITA-aware XML editor first, in case you are trapped in the tremendous DITA elements. Then, keep a 📙 book of DITA best practices at hand for reference at any time.",
@@ -190,7 +199,8 @@
                     "owner": "dita-ot",
                     "repo": "docs",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 },
                 {
                   "node_type": "item",
@@ -205,7 +215,8 @@
                     "owner": "oxygenxml",
                     "repo": "userguide",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 },
                 {
                   "node_type": "item",
@@ -220,7 +231,8 @@
                     "owner": "flicstar",
                     "repo": "DITA-Mini-Manual",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 },
                 {
                   "node_type": "item",
@@ -235,7 +247,8 @@
                     "owner": "hyperwrite",
                     "repo": "DITAStyleGuide",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 },
                 {
                   "node_type": "item",
@@ -250,7 +263,8 @@
                     "owner": "DITAWriter",
                     "repo": "LwDITA_Code_Samples",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 },
                 {
                   "node_type": "item",
@@ -265,7 +279,8 @@
                     "owner": "DITAWriter",
                     "repo": "pilot_training_mitchell_bomber",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 },
                 {
                   "node_type": "item",
@@ -280,7 +295,8 @@
                     "owner": "thesaurus-linguae-aegyptiae",
                     "repo": "BTS-Manual",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 },
                 {
                   "node_type": "item",
@@ -295,7 +311,8 @@
                     "owner": "DITAWriter",
                     "repo": "dita_glossary_example",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 }
               ],
               "description": "You can use DITA to improve your own technical documentation. If you don't have such resources, pick one of 📔 open source sample manuals written in DITA to see how it was written and think how to improve it.",
@@ -313,11 +330,12 @@
                     "archived": false,
                     "id": 73307047,
                     "language": "Python",
-                    "last_commit": "2026-08-21T18:55:45Z",
+                    "last_commit": "2026-08-28T20:24:57Z",
                     "owner": "oasis-tcs",
                     "repo": "dita",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 },
                 {
                   "node_type": "item",
@@ -332,7 +350,8 @@
                     "owner": "oasis-open",
                     "repo": "dita-specializations",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:15:35.995Z"
                 }
               ],
               "description": "DITA has much more elements than Markdown and reStructuredText. If you encounter something unknown, resort to 📘 official specifications.\nIf you like to stay current with DITA developments, visit the 📁 official repositories in GitHub often.",
@@ -349,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:13:43.673Z",
+    "last_updated": "2026-08-28T22:15:35.995Z",
     "original_repository_info": {
       "archived": false,
       "id": 750118872,
