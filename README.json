@@ -17,12 +17,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "One of the 'BEST' markdown preview extensions for Atom editor!",
+                    "homepage": "https://shd101wyy.github.io/markdown-preview-enhanced",
                     "id": 34369372,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-05T01:40:20Z",
+                    "open_issues": 209,
                     "owner": "shd101wyy",
                     "repo": "markdown-preview-enhanced",
-                    "stars": 4435
+                    "stars": 4435,
+                    "topics": [
+                      "atom",
+                      "atom-package",
+                      "katex",
+                      "markdown",
+                      "markdown-editor",
+                      "mathjax",
+                      "mermaid",
+                      "pandoc",
+                      "plantuml",
+                      "toc"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 },
@@ -33,12 +49,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Markdown All in One",
+                    "homepage": "https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one",
                     "id": 77910704,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-06-13T04:49:10Z",
+                    "open_issues": 458,
                     "owner": "yzhang-gh",
                     "repo": "vscode-markdown",
-                    "stars": 3277
+                    "stars": 3277,
+                    "topics": [
+                      "markdown",
+                      "vscode"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 },
@@ -49,12 +73,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Markdown converter for Visual Studio Code",
+                    "homepage": "https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf",
                     "id": 65667591,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-20T19:37:16Z",
+                    "open_issues": 193,
                     "owner": "yzane",
                     "repo": "vscode-markdown-pdf",
-                    "stars": 1323
+                    "stars": 1323,
+                    "topics": [
+                      "markdown",
+                      "mermaid",
+                      "pdf",
+                      "plantuml",
+                      "visual-studio-code",
+                      "vscode",
+                      "vscode-extension"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 },
@@ -65,12 +102,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "More Intuitive Way to Generate Markdown Tables",
+                    "homepage": "https://marketplace.visualstudio.com/items?itemName=hellorusk.markdown-table-maker",
                     "id": 181188777,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2022-12-08T22:08:57Z",
+                    "open_issues": 4,
                     "owner": "kaisugi",
                     "repo": "vscode-markdown-tablemaker",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "markdown",
+                      "markdown-table",
+                      "markdown-tables",
+                      "vscode-extension",
+                      "vscode-markdown"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 }
@@ -95,12 +143,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "reStructuredText Language Support in Visual Studio Code",
+                    "homepage": "https://marketplace.visualstudio.com/items/lextudio.restructuredtext",
                     "id": 46862173,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-01T04:31:47Z",
+                    "open_issues": 12,
                     "owner": "vscode-restructuredtext",
                     "repo": "vscode-restructuredtext",
-                    "stars": 367
+                    "stars": 367,
+                    "topics": [
+                      "documentation-tool",
+                      "linter",
+                      "live-preview",
+                      "preview",
+                      "python",
+                      "python2",
+                      "python3",
+                      "restructuredtext",
+                      "snippets",
+                      "sphinx",
+                      "sphinx-doc",
+                      "sphinx-documentation",
+                      "sphinx-preview",
+                      "visual-studio-code"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 },
@@ -111,12 +179,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Syntax highlighting and document symbols for reStructuredText in VS Code",
+                    "homepage": "https://marketplace.visualstudio.com/items?itemName=trond-snekvik.simple-rst",
                     "id": 349746381,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-12-25T04:08:33Z",
+                    "open_issues": 5,
                     "owner": "trond-snekvik",
                     "repo": "vscode-rst",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 }
@@ -129,12 +202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A two-page cheatsheet for restructured text",
+                "homepage": null,
                 "id": 308455,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-07-22T03:48:48Z",
+                "open_issues": 1,
                 "owner": "ralsina",
                 "repo": "rst-cheatsheet",
-                "stars": 1157
+                "stars": 1157,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:15:35.995Z"
             }
@@ -154,12 +232,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "结合业务实践编写了 Oxygen XML Author 中文使用指南，包含 Oxygen 和 DITA 入门、GitLab 协作规范、说明书全流程、Word 迁移流程、翻译流程、DITA 规范、故障排除",
+                    "homepage": null,
                     "id": 833522152,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-02-21T07:23:55Z",
+                    "open_issues": 0,
                     "owner": "EstelleRao",
                     "repo": "zh-oxygenxml-userguide",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 },
@@ -170,12 +253,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Jorsek's Content Development Guide",
+                    "homepage": null,
                     "id": 115042720,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2021-03-19T09:22:07Z",
+                    "open_issues": 0,
                     "owner": "Jorsek",
                     "repo": "jorsek-cdg",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 }
@@ -193,12 +281,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DITA Open Toolkit documentation",
+                    "homepage": "https://www.dita-ot.org/dev",
                     "id": 26856261,
                     "language": "XSLT",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-21T21:29:24Z",
+                    "open_issues": 19,
                     "owner": "dita-ot",
                     "repo": "docs",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": [
+                      "ant",
+                      "dita",
+                      "dita-ot",
+                      "documentation",
+                      "documentation-tool",
+                      "hacktoberfest",
+                      "publishing",
+                      "xml",
+                      "xslt"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 },
@@ -209,12 +312,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The oXygen XML userguide",
+                    "homepage": null,
                     "id": 21857613,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2026-08-21T22:26:07Z",
+                    "open_issues": 31,
                     "owner": "oxygenxml",
                     "repo": "userguide",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 },
@@ -225,12 +333,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mini Owner's Manual written in DITA",
+                    "homepage": null,
                     "id": 28318600,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2014-12-23T07:50:03Z",
+                    "open_issues": 0,
                     "owner": "flicstar",
                     "repo": "DITA-Mini-Manual",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 },
@@ -241,12 +354,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source for The DITA Style Guide (English)",
+                    "homepage": null,
                     "id": 31392466,
                     "language": null,
+                    "license": "GPL-2.0",
                     "last_commit": "2022-07-28T07:38:01Z",
+                    "open_issues": 8,
                     "owner": "hyperwrite",
                     "repo": "DITAStyleGuide",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 },
@@ -257,12 +375,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A set of code samples designed to demonstrate what is possible for each of the \"flavors\" of Lightweight DITA. ",
+                    "homepage": null,
                     "id": 113853532,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2019-01-07T13:08:26Z",
+                    "open_issues": 1,
                     "owner": "DITAWriter",
                     "repo": "LwDITA_Code_Samples",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 },
@@ -273,12 +396,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A DITA-fied version of the Pilot Training Manual for the Mitchell Bomber B-25",
+                    "homepage": null,
                     "id": 161405277,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-02-20T14:34:01Z",
+                    "open_issues": 0,
                     "owner": "DITAWriter",
                     "repo": "pilot_training_mitchell_bomber",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 },
@@ -289,12 +417,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Manual of Thesaurus Linguae Aegyptiae's (TLA) editorial software Berlin Text System (BTS) in DITA format.",
+                    "homepage": null,
                     "id": 48152015,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2026-07-23T05:32:56Z",
+                    "open_issues": 0,
                     "owner": "thesaurus-linguae-aegyptiae",
                     "repo": "BTS-Manual",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "berlin-test-system",
+                      "manual",
+                      "thesaurus-linguae-aegyptiae"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 },
@@ -305,12 +442,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An example of a converted DITA-based document (\"On Yacht Sailing\") that implements a glossary",
+                    "homepage": null,
                     "id": 693924673,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2023-09-20T13:07:23Z",
+                    "open_issues": 0,
                     "owner": "DITAWriter",
                     "repo": "dita_glossary_example",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 }
@@ -328,12 +470,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OASIS DITA TC: Official repository for the source files for the written DITA specification",
+                    "homepage": "https://github.com/oasis-tcs/dita",
                     "id": 73307047,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T20:24:57Z",
+                    "open_issues": 30,
                     "owner": "oasis-tcs",
                     "repo": "dita",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 },
@@ -344,12 +491,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OASIS Darwin Information Typing Architecture (DITA) TC:  This repository provides storage for DITA specializations that were developed by the DITA TC, but which are no longer part of the DITA standard. https://github.com/oasis-open/dita-specializations ",
+                    "homepage": null,
                     "id": 404814289,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2024-06-25T17:51:50Z",
+                    "open_issues": 2,
                     "owner": "oasis-open",
                     "repo": "dita-specializations",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
                 }
@@ -368,15 +520,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:15:35.995Z",
+    "last_updated": "2026-08-29T05:06:16.387Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 A curated list of awesome and free resources about technical writing.",
+      "homepage": "https://resources.tcblabber.cn/",
       "id": 750118872,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2025-07-25T05:53:17Z",
+      "open_issues": 0,
       "owner": "wongyah",
       "repo": "awesome-technical-writing-learning",
-      "stars": 53
+      "stars": 53,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dita",
+        "docs",
+        "manuals",
+        "markdown",
+        "resources",
+        "technical-communication",
+        "technical-writing"
+      ]
     },
     "original_repository_sha": "f0b8933087712e5eded0598350771c957cc564ad",
     "enhanced_repository": "enhansome/enhansome-technical-writing-learning",
