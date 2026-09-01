@@ -82,7 +82,7 @@
                     "open_issues": 193,
                     "owner": "yzane",
                     "repo": "vscode-markdown-pdf",
-                    "stars": 1324,
+                    "stars": 1326,
                     "topics": [
                       "markdown",
                       "mermaid",
@@ -317,7 +317,7 @@
                     "id": 21857613,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-08-21T22:26:07Z",
+                    "last_commit": "2026-09-01T01:25:07Z",
                     "open_issues": 31,
                     "owner": "oxygenxml",
                     "repo": "userguide",
@@ -475,8 +475,8 @@
                     "id": 73307047,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-28T20:24:57Z",
-                    "open_issues": 30,
+                    "last_commit": "2026-09-01T14:32:40Z",
+                    "open_issues": 31,
                     "owner": "oasis-tcs",
                     "repo": "dita",
                     "stars": 48,
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:07:08.047Z",
+    "last_updated": "2026-09-01T16:35:46.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
