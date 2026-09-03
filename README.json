@@ -58,7 +58,7 @@
                     "open_issues": 458,
                     "owner": "yzhang-gh",
                     "repo": "vscode-markdown",
-                    "stars": 3278,
+                    "stars": 3279,
                     "topics": [
                       "markdown",
                       "vscode"
@@ -79,7 +79,7 @@
                     "language": "HTML",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-20T19:37:16Z",
-                    "open_issues": 193,
+                    "open_issues": 194,
                     "owner": "yzane",
                     "repo": "vscode-markdown-pdf",
                     "stars": 1326,
@@ -211,7 +211,7 @@
                 "open_issues": 1,
                 "owner": "ralsina",
                 "repo": "rst-cheatsheet",
-                "stars": 1157,
+                "stars": 1156,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:35.995Z"
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T16:31:35.781Z",
+    "last_updated": "2026-09-03T16:22:56.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
