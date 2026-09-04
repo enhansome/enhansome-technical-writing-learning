@@ -58,7 +58,7 @@
                     "open_issues": 458,
                     "owner": "yzhang-gh",
                     "repo": "vscode-markdown",
-                    "stars": 3279,
+                    "stars": 3281,
                     "topics": [
                       "markdown",
                       "vscode"
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T16:22:56.662Z",
+    "last_updated": "2026-09-04T16:18:41.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",

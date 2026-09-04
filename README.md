@@ -165,7 +165,7 @@ Can't wait to try it out? Just adopt a **✒️ Markdown editor**, then you are 
 * [StackEdit](https://stackedit.io/) - In-browser Markdown editor with rich functions. It can create new files or folders, export the files to Markdown or HTML, synchronize with GitHub, Google Drive, or Dropbox accounts, etc.
 * [Visual Studio Code (VS Code)](https://code.visualstudio.com/) - Code editor developed by Microsoft, with built-in Markdown preview and many Markdown extensions.
   * [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced#readme) ⭐ 4,434 | 🐛 209 | 🌐 HTML | 📅 2026-05-05 - An extension to enrich Markdown features in Atom and VS Code, featuring the integration of Pandoc.
-  * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,279 | 🐛 458 | 🌐 TypeScript | 📅 2026-06-13 - An extension to enrich Markdown features in VS Code, such as automatic creation of table of contents, auto completions, printing Markdown files to HTML.
+  * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,281 | 🐛 458 | 🌐 TypeScript | 📅 2026-06-13 - An extension to enrich Markdown features in VS Code, such as automatic creation of table of contents, auto completions, printing Markdown files to HTML.
   * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf#readme) ⭐ 1,326 | 🐛 194 | 🌐 HTML | 📅 2026-08-20 - An extension to convert Markdown files to PDF, PNG, JPEG, or HTML.
   * [Markdown Table Maker](https://github.com/kaisugi/vscode-markdown-tablemaker?tab=readme-ov-file#readme) ⭐ 2 | 🐛 4 | 🌐 TypeScript | 📅 2022-12-08 - An extension to generate Markdown tables in an easy and intuitive way.
 
@@ -414,4 +414,4 @@ Join a live talk or an in-person presentation to connect yourself with your peer
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
