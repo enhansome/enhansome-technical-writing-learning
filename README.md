@@ -165,8 +165,8 @@ Can't wait to try it out? Just adopt a **✒️ Markdown editor**, then you are 
 * [StackEdit](https://stackedit.io/) - In-browser Markdown editor with rich functions. It can create new files or folders, export the files to Markdown or HTML, synchronize with GitHub, Google Drive, or Dropbox accounts, etc.
 * [Visual Studio Code (VS Code)](https://code.visualstudio.com/) - Code editor developed by Microsoft, with built-in Markdown preview and many Markdown extensions.
   * [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced#readme) ⭐ 4,434 | 🐛 209 | 🌐 HTML | 📅 2026-05-05 - An extension to enrich Markdown features in Atom and VS Code, featuring the integration of Pandoc.
-  * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,281 | 🐛 458 | 🌐 TypeScript | 📅 2026-06-13 - An extension to enrich Markdown features in VS Code, such as automatic creation of table of contents, auto completions, printing Markdown files to HTML.
-  * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf#readme) ⭐ 1,326 | 🐛 194 | 🌐 HTML | 📅 2026-08-20 - An extension to convert Markdown files to PDF, PNG, JPEG, or HTML.
+  * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,282 | 🐛 458 | 🌐 TypeScript | 📅 2026-06-13 - An extension to enrich Markdown features in VS Code, such as automatic creation of table of contents, auto completions, printing Markdown files to HTML.
+  * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf#readme) ⭐ 1,326 | 🐛 197 | 🌐 HTML | 📅 2026-08-20 - An extension to convert Markdown files to PDF, PNG, JPEG, or HTML.
   * [Markdown Table Maker](https://github.com/kaisugi/vscode-markdown-tablemaker?tab=readme-ov-file#readme) ⭐ 2 | 🐛 4 | 🌐 TypeScript | 📅 2022-12-08 - An extension to generate Markdown tables in an easy and intuitive way.
 
 If you go deeper, you will find [the controversy over Markdown](https://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/).
@@ -182,7 +182,7 @@ As a result, whenever you select a new Markdown tool, you must read through its 
 * [Pandoc's Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - Markdown syntax of Pandoc, a universal document converter, which can convert between various formats.
 * [kramdown Quick Reference](https://kramdown.gettalong.org/quickref.html) and [kramdown Syntax](https://kramdown.gettalong.org/syntax.html) - Markdown syntax of kramdown, which is the default Markdown parser for Jekyll.
 
-If you want to explore more resources about Markdown, see [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) ⭐ 955 | 🐛 71 | 📅 2024-08-21.
+If you want to explore more resources about Markdown, see [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) ⭐ 955 | 🐛 72 | 📅 2024-08-21.
 
 ### reStructuredText
 
@@ -414,4 +414,4 @@ Join a live talk or an in-person presentation to connect yourself with your peer
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
