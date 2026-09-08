@@ -7,7 +7,7 @@ Technical writing is an essential skill of conveying complex technical informati
 > \[!TIP]
 > All resources in this curated list are free, unless otherwise noted.
 
-Want to suggest a resource? Check out the [Contribution Guidelines](https://github.com/wongyah/awesome-technical-writing-learning/blob/main/contributing.md) ⭐ 53 | 🐛 0 | 📅 2025-07-25! 👐
+Want to suggest a resource? Check out the [Contribution Guidelines](https://github.com/wongyah/awesome-technical-writing-learning/blob/main/contributing.md) ⭐ 53 | 🐛 0 | 📅 2026-09-08! 👐
 
 ***
 
@@ -165,8 +165,8 @@ Can't wait to try it out? Just adopt a **✒️ Markdown editor**, then you are 
 * [StackEdit](https://stackedit.io/) - In-browser Markdown editor with rich functions. It can create new files or folders, export the files to Markdown or HTML, synchronize with GitHub, Google Drive, or Dropbox accounts, etc.
 * [Visual Studio Code (VS Code)](https://code.visualstudio.com/) - Code editor developed by Microsoft, with built-in Markdown preview and many Markdown extensions.
   * [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced#readme) ⭐ 4,434 | 🐛 209 | 🌐 HTML | 📅 2026-05-05 - An extension to enrich Markdown features in Atom and VS Code, featuring the integration of Pandoc.
-  * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,284 | 🐛 458 | 🌐 TypeScript | 📅 2026-06-13 - An extension to enrich Markdown features in VS Code, such as automatic creation of table of contents, auto completions, printing Markdown files to HTML.
-  * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf#readme) ⭐ 1,326 | 🐛 197 | 🌐 HTML | 📅 2026-08-20 - An extension to convert Markdown files to PDF, PNG, JPEG, or HTML.
+  * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,285 | 🐛 458 | 🌐 TypeScript | 📅 2026-06-13 - An extension to enrich Markdown features in VS Code, such as automatic creation of table of contents, auto completions, printing Markdown files to HTML.
+  * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf#readme) ⭐ 1,327 | 🐛 197 | 🌐 HTML | 📅 2026-08-20 - An extension to convert Markdown files to PDF, PNG, JPEG, or HTML.
   * [Markdown Table Maker](https://github.com/kaisugi/vscode-markdown-tablemaker?tab=readme-ov-file#readme) ⭐ 2 | 🐛 4 | 🌐 TypeScript | 📅 2022-12-08 - An extension to generate Markdown tables in an easy and intuitive way.
 
 If you go deeper, you will find [the controversy over Markdown](https://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/).
@@ -182,7 +182,7 @@ As a result, whenever you select a new Markdown tool, you must read through its 
 * [Pandoc's Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - Markdown syntax of Pandoc, a universal document converter, which can convert between various formats.
 * [kramdown Quick Reference](https://kramdown.gettalong.org/quickref.html) and [kramdown Syntax](https://kramdown.gettalong.org/syntax.html) - Markdown syntax of kramdown, which is the default Markdown parser for Jekyll.
 
-If you want to explore more resources about Markdown, see [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) ⭐ 955 | 🐛 73 | 📅 2024-08-21.
+If you want to explore more resources about Markdown, see [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) ⭐ 956 | 🐛 73 | 📅 2024-08-21.
 
 ### reStructuredText
 
@@ -401,17 +401,18 @@ Join a live talk or an in-person presentation to connect yourself with your peer
 
 ### Conferences
 
-* [DITA Europe (February 17-18, 2025)](https://ditaeurope.infomanagementcenter.com/) - Two days of on-site event with focus on trends, content management solutions and best practices of technical content and DITA (paid ticket necessary).
-* [ConVEx San Jose (April 7-9, 2025)](https://convex.infomanagementcenter.com/) - Three days of hybrid event in San Jose, California (previously named DITA North America), with focus on content strategy related to DITA (paid ticket necessary).
-* [Write the Docs Portland (May 4-6, 2025)](https://www.writethedocs.org/conf/portland/2025/) - Three days of on-site event with focus on software documentation and community.
+* [ConVEx IDEAS (September 22-24, 2026)](https://ideas.infomanagementcenter.com/) - Three days of online event with focus on industry trends rather than just one topic (paid ticket necessary).
+* [tcworld Conference (November 10-12, 2026)](https://tcworldconference.tekom.de/) - Three days of on-site event with diverse topics and professionals in technical communication from all over the world (paid ticket necessary).
+* [DITA Europe (February 08-09, 2027)](https://ditaeurope.infomanagementcenter.com/) - Two days of on-site event with focus on trends, content management solutions and best practices of technical content and DITA (paid ticket necessary).
+* [ConVEx (April 26-28, 2027)](https://convex.infomanagementcenter.com/) - Three days of hybrid event in San Jose, California (previously named DITA North America), with focus on content strategy related to DITA (paid ticket necessary).
+* [Write the Docs Portland (May 3-5, 2026)](https://www.writethedocs.org/conf/portland/2026/) - Three days of on-site event with focus on software documentation and community.
   * [Archives of Write the Docs Conferences](https://www.writethedocs.org/conf/)
-* [tcworld China (May 22-23, 2025)](https://www.tcworld-china.cn/en/) - Two days of on-site event with focus on the development and challenges of technical communication in China (paid ticket necessary).
-* [Evolution of TC (May 27-28, 2025)](https://evolution-of-tc.com/) - Two days of on-site event with focus on innovations in software documentation.
-* [Adobe DITAWORLD (June 3-5, 2025)](https://2025-adobe-dita-world.meetus.adobeevents.com/) - Three days of online event hosted by Adobe to showcase the trends, new features, customer stories, and best practices of Adobe's software suite related to technical documentation.
-* [tcworld Conference (November 11-13, 2025)](https://tcworldconference.tekom.de/) - Three days of on-site event with diverse topics and professionals in technical communication from all over the world (paid ticket necessary).
-* [XML Prague (June 6-8, 2024)](https://www.xmlprague.cz/) - Three days of on-site event with focus on markup and semantics on web books and ebooks and printed books, recent advances in XML technologies, and XML technologies for big data.
-* [ConVEx IDEAS (September 9-11, 2024)](https://ideas.infomanagementcenter.com/) - Three days of online event with focus on industry trends rather than just one topic (paid ticket necessary).
+* [tcworld China (May 21-22, 2026)](https://www.tcworld-china.cn/en/) - Two days of on-site event with focus on the development and challenges of technical communication in China (paid ticket necessary).
+* [Evolution of TC (June 02-03, 2026)](https://evolution-of-tc.com/) - Two days of on-site event with focus on innovations in software documentation.
+* [XML Prague 2026 (June 04-06, 2026)](https://www.xmlprague.cz/) - Three days of on-site event with focus on markup and semantics on web books and ebooks and printed books, recent advances in XML technologies, and XML technologies for big data.
+* [Adobe DITAWORLD 2026 (June 23-25, 2026)](https://2026-adobe-dita-world.meetus.adobeevents.com/) - Three days of online event hosted by Adobe to showcase the trends, new features, customer stories, and best practices of Adobe's software suite related to technical documentation.
+  * [Adobe DITAWORLD 2026 大会总结](https://www.tcblabber.cn/2026/08/28/adobe-ditaworld-2026-summary.html) - A comprehensive Chinese summary of Adobe DITAWORLD 2026.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
