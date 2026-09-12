@@ -55,10 +55,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-06-13T04:49:10Z",
-                    "open_issues": 458,
+                    "open_issues": 459,
                     "owner": "yzhang-gh",
                     "repo": "vscode-markdown",
-                    "stars": 3287,
+                    "stars": 3288,
                     "topics": [
                       "markdown",
                       "vscode"
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T16:25:13.461Z",
+    "last_updated": "2026-09-12T15:29:14.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
