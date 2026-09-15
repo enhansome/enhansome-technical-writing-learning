@@ -475,7 +475,7 @@
                     "id": 73307047,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-02T15:09:14Z",
+                    "last_commit": "2026-09-15T00:03:02Z",
                     "open_issues": 30,
                     "owner": "oasis-tcs",
                     "repo": "dita",
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:04:03.194Z",
+    "last_updated": "2026-09-15T16:55:16.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
