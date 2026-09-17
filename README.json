@@ -55,7 +55,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-06-13T04:49:10Z",
-                    "open_issues": 459,
+                    "open_issues": 460,
                     "owner": "yzhang-gh",
                     "repo": "vscode-markdown",
                     "stars": 3289,
@@ -475,8 +475,8 @@
                     "id": 73307047,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-15T00:03:02Z",
-                    "open_issues": 31,
+                    "last_commit": "2026-09-17T15:43:15Z",
+                    "open_issues": 30,
                     "owner": "oasis-tcs",
                     "repo": "dita",
                     "stars": 48,
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T16:49:55.228Z",
+    "last_updated": "2026-09-17T16:56:28.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
