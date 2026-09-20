@@ -26,7 +26,7 @@
                     "open_issues": 210,
                     "owner": "shd101wyy",
                     "repo": "markdown-preview-enhanced",
-                    "stars": 4438,
+                    "stars": 4439,
                     "topics": [
                       "atom",
                       "atom-package",
@@ -55,10 +55,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-06-13T04:49:10Z",
-                    "open_issues": 460,
+                    "open_issues": 461,
                     "owner": "yzhang-gh",
                     "repo": "vscode-markdown",
-                    "stars": 3292,
+                    "stars": 3294,
                     "topics": [
                       "markdown",
                       "vscode"
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T15:50:43.952Z",
+    "last_updated": "2026-09-20T16:00:55.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
