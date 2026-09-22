@@ -243,7 +243,7 @@ That said, DITA is a bit complicated. Adopt a [DITA-aware XML editor](https://ww
 You can use DITA to improve your own technical documentation. If you don't have such resources, pick one of **📔 open source sample manuals written in DITA** to see how it was written and think how to improve it.
 
 * [DITA Open Toolkit Documentation](https://github.com/dita-ot/docs) ⭐ 64 | 🐛 19 | 🌐 XSLT | 📅 2026-08-21 - Source code for the DITA-OT documentation.
-* [Oxygen XML User Guide](https://github.com/oxygenxml/userguide) ⭐ 44 | 🐛 31 | 🌐 HTML | 📅 2026-09-21 - Source code for the Oxygen XML documentation.
+* [Oxygen XML User Guide](https://github.com/oxygenxml/userguide) ⭐ 44 | 🐛 31 | 🌐 HTML | 📅 2026-09-22 - Source code for the Oxygen XML documentation.
 * [DITA Mini Manual](https://github.com/flicstar/DITA-Mini-Manual#readme) ⭐ 22 | 🐛 0 | 📅 2014-12-23 - Mini owner's manual that published in 1960s rewritten in DITA.
 * [DITA Style Guide](https://github.com/hyperwrite/DITAStyleGuide) ⭐ 19 | 🐛 8 | 📅 2022-07-28 - Source code for The DITA Style Guide: Best Practices for Authors, written by Tony Self.
 * [LwDITA Code Samples](https://github.com/DITAWriter/LwDITA_Code_Samples#readme) ⭐ 11 | 🐛 1 | 🌐 HTML | 📅 2019-01-07 - Various manuals of a 1970s computer rewritten in Lightweight DITA.
@@ -415,4 +415,4 @@ Join a live talk or an in-person presentation to connect yourself with your peer
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

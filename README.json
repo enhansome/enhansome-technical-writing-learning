@@ -317,7 +317,7 @@
                     "id": 21857613,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-09-21T12:22:46Z",
+                    "last_commit": "2026-09-22T13:32:28Z",
                     "open_issues": 31,
                     "owner": "oxygenxml",
                     "repo": "userguide",
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:11:53.601Z",
+    "last_updated": "2026-09-22T16:53:53.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
