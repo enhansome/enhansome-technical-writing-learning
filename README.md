@@ -164,9 +164,9 @@ Can't wait to try it out? Just adopt a **✒️ Markdown editor**, then you are 
 * [Dillinger](https://dillinger.io/) - In-browser Markdown editor. It can create new files, export files to Markdown, HTML, or PDF, synchronize with GitHub, Google Drive, or Dropbox repositories, etc.
 * [StackEdit](https://stackedit.io/) - In-browser Markdown editor with rich functions. It can create new files or folders, export the files to Markdown or HTML, synchronize with GitHub, Google Drive, or Dropbox accounts, etc.
 * [Visual Studio Code (VS Code)](https://code.visualstudio.com/) - Code editor developed by Microsoft, with built-in Markdown preview and many Markdown extensions.
-  * [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced#readme) ⭐ 4,442 | 🐛 210 | 🌐 HTML | 📅 2026-05-05 - An extension to enrich Markdown features in Atom and VS Code, featuring the integration of Pandoc.
+  * [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced#readme) ⭐ 4,443 | 🐛 210 | 🌐 HTML | 📅 2026-05-05 - An extension to enrich Markdown features in Atom and VS Code, featuring the integration of Pandoc.
   * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,297 | 🐛 463 | 🌐 TypeScript | 📅 2026-06-13 - An extension to enrich Markdown features in VS Code, such as automatic creation of table of contents, auto completions, printing Markdown files to HTML.
-  * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf#readme) ⭐ 1,335 | 🐛 201 | 🌐 HTML | 📅 2026-09-13 - An extension to convert Markdown files to PDF, PNG, JPEG, or HTML.
+  * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf#readme) ⭐ 1,337 | 🐛 201 | 🌐 HTML | 📅 2026-09-13 - An extension to convert Markdown files to PDF, PNG, JPEG, or HTML.
   * [Markdown Table Maker](https://github.com/kaisugi/vscode-markdown-tablemaker?tab=readme-ov-file#readme) ⭐ 2 | 🐛 4 | 🌐 TypeScript | 📅 2022-12-08 - An extension to generate Markdown tables in an easy and intuitive way.
 
 If you go deeper, you will find [the controversy over Markdown](https://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/).
@@ -198,7 +198,7 @@ Now, you know a bit about reStructuredText 👏. Just adopt a **✒️ reStructu
 
 * [Online reStructuredText editor](https://rsted.info.ucl.ac.be/)
 * [Visual Studio Code (VS Code)](https://code.visualstudio.com/) - Code editor developed by Microsoft.
-  * [reStructuredText](https://github.com/vscode-restructuredtext/vscode-restructuredtext#readme) ⭐ 366 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-01 - An extension to provide rich reStructuredText language support in VS Code.
+  * [reStructuredText](https://github.com/vscode-restructuredtext/vscode-restructuredtext#readme) ⭐ 367 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-01 - An extension to provide rich reStructuredText language support in VS Code.
   * [reStructuredText Syntax Highlighting](https://github.com/trond-snekvik/vscode-rst#readme) ⭐ 22 | 🐛 5 | 🌐 TypeScript | 📅 2023-12-25 - An extension to provide rich syntax highlighting and non-intrusive section navigation for reStructuredText in VS Code.
 
 You may forget an infrequently used syntax or not sure about a specific syntax during writing. Pick a **📔 cheat sheet or reference documentation** at hand, which you will look for sooner or later.
@@ -262,7 +262,7 @@ DITA has much more elements than Markdown and reStructuredText. If you encounter
 
 If you like to stay current with DITA developments, visit the **📁 official repositories** in GitHub often.
 
-* [DITA Specification](https://github.com/oasis-tcs/dita) ⭐ 48 | 🐛 30 | 🌐 Python | 📅 2026-09-25 -  The official repository for the source files of the DITA specification developed and maintained by the DITA Technical Committee.
+* [DITA Specification](https://github.com/oasis-tcs/dita) ⭐ 48 | 🐛 30 | 🌐 Python | 📅 2026-09-28 -  The official repository for the source files of the DITA specification developed and maintained by the DITA Technical Committee.
 * [DITA Specializations](https://github.com/oasis-open/dita-specializations) ⭐ 7 | 🐛 2 | 📅 2024-06-25 - The official repository for DITA specializations that were developed by the DITA Technical Committee, but are no longer part of the DITA standard.
 * [Lightweight DITA Specification](https://kkgithub.com/oasis-tcs/dita-lwdita) -  The official repository for source files of the Lightweight DITA specification developed and maintained by the Lightweight DITA Subcommittee.
 
@@ -415,4 +415,4 @@ Join a live talk or an in-person presentation to connect yourself with your peer
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
