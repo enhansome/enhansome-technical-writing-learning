@@ -82,7 +82,7 @@
                     "open_issues": 202,
                     "owner": "yzane",
                     "repo": "vscode-markdown-pdf",
-                    "stars": 1337,
+                    "stars": 1338,
                     "topics": [
                       "markdown",
                       "mermaid",
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:12:09.478Z",
+    "last_updated": "2026-10-03T16:14:01.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
