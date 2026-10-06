@@ -166,7 +166,7 @@ Can't wait to try it out? Just adopt a **✒️ Markdown editor**, then you are 
 * [Visual Studio Code (VS Code)](https://code.visualstudio.com/) - Code editor developed by Microsoft, with built-in Markdown preview and many Markdown extensions.
   * [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced#readme) ⭐ 4,443 | 🐛 211 | 🌐 HTML | 📅 2026-05-05 - An extension to enrich Markdown features in Atom and VS Code, featuring the integration of Pandoc.
   * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,298 | 🐛 463 | 🌐 TypeScript | 📅 2026-06-13 - An extension to enrich Markdown features in VS Code, such as automatic creation of table of contents, auto completions, printing Markdown files to HTML.
-  * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf#readme) ⭐ 1,338 | 🐛 202 | 🌐 HTML | 📅 2026-09-30 - An extension to convert Markdown files to PDF, PNG, JPEG, or HTML.
+  * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf#readme) ⭐ 1,339 | 🐛 202 | 🌐 HTML | 📅 2026-09-30 - An extension to convert Markdown files to PDF, PNG, JPEG, or HTML.
   * [Markdown Table Maker](https://github.com/kaisugi/vscode-markdown-tablemaker?tab=readme-ov-file#readme) ⭐ 2 | 🐛 4 | 🌐 TypeScript | 📅 2022-12-08 - An extension to generate Markdown tables in an easy and intuitive way.
 
 If you go deeper, you will find [the controversy over Markdown](https://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/).
@@ -182,7 +182,7 @@ As a result, whenever you select a new Markdown tool, you must read through its 
 * [Pandoc's Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - Markdown syntax of Pandoc, a universal document converter, which can convert between various formats.
 * [kramdown Quick Reference](https://kramdown.gettalong.org/quickref.html) and [kramdown Syntax](https://kramdown.gettalong.org/syntax.html) - Markdown syntax of kramdown, which is the default Markdown parser for Jekyll.
 
-If you want to explore more resources about Markdown, see [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) ⭐ 959 | 🐛 76 | 📅 2024-08-21.
+If you want to explore more resources about Markdown, see [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) ⭐ 959 | 🐛 78 | 📅 2024-08-21.
 
 ### reStructuredText
 
@@ -262,7 +262,7 @@ DITA has much more elements than Markdown and reStructuredText. If you encounter
 
 If you like to stay current with DITA developments, visit the **📁 official repositories** in GitHub often.
 
-* [DITA Specification](https://github.com/oasis-tcs/dita) ⭐ 48 | 🐛 31 | 🌐 Python | 📅 2026-10-01 -  The official repository for the source files of the DITA specification developed and maintained by the DITA Technical Committee.
+* [DITA Specification](https://github.com/oasis-tcs/dita) ⭐ 48 | 🐛 30 | 🌐 Python | 📅 2026-10-06 -  The official repository for the source files of the DITA specification developed and maintained by the DITA Technical Committee.
 * [DITA Specializations](https://github.com/oasis-open/dita-specializations) ⭐ 7 | 🐛 2 | 📅 2024-06-25 - The official repository for DITA specializations that were developed by the DITA Technical Committee, but are no longer part of the DITA standard.
 * [Lightweight DITA Specification](https://kkgithub.com/oasis-tcs/dita-lwdita) -  The official repository for source files of the Lightweight DITA specification developed and maintained by the Lightweight DITA Subcommittee.
 
@@ -415,4 +415,4 @@ Join a live talk or an in-person presentation to connect yourself with your peer
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
