@@ -182,7 +182,7 @@ As a result, whenever you select a new Markdown tool, you must read through its 
 * [Pandoc's Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - Markdown syntax of Pandoc, a universal document converter, which can convert between various formats.
 * [kramdown Quick Reference](https://kramdown.gettalong.org/quickref.html) and [kramdown Syntax](https://kramdown.gettalong.org/syntax.html) - Markdown syntax of kramdown, which is the default Markdown parser for Jekyll.
 
-If you want to explore more resources about Markdown, see [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) ⭐ 959 | 🐛 79 | 📅 2024-08-21.
+If you want to explore more resources about Markdown, see [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) ⭐ 959 | 🐛 77 | 📅 2024-08-21.
 
 ### reStructuredText
 
@@ -415,4 +415,4 @@ Join a live talk or an in-person presentation to connect yourself with your peer
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
