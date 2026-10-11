@@ -26,7 +26,7 @@
                     "open_issues": 210,
                     "owner": "shd101wyy",
                     "repo": "markdown-preview-enhanced",
-                    "stars": 4441,
+                    "stars": 4442,
                     "topics": [
                       "atom",
                       "atom-package",
@@ -58,7 +58,7 @@
                     "open_issues": 463,
                     "owner": "yzhang-gh",
                     "repo": "vscode-markdown",
-                    "stars": 3298,
+                    "stars": 3297,
                     "topics": [
                       "markdown",
                       "vscode"
@@ -82,7 +82,7 @@
                     "open_issues": 202,
                     "owner": "yzane",
                     "repo": "vscode-markdown-pdf",
-                    "stars": 1340,
+                    "stars": 1341,
                     "topics": [
                       "markdown",
                       "mermaid",
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:19:23.675Z",
+    "last_updated": "2026-10-11T17:40:20.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
