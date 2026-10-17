@@ -152,7 +152,7 @@
                     "open_issues": 12,
                     "owner": "vscode-restructuredtext",
                     "repo": "vscode-restructuredtext",
-                    "stars": 366,
+                    "stars": 365,
                     "topics": [
                       "documentation-tool",
                       "linter",
@@ -317,7 +317,7 @@
                     "id": 21857613,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-10-15T20:44:47Z",
+                    "last_commit": "2026-10-17T01:03:39Z",
                     "open_issues": 31,
                     "owner": "oxygenxml",
                     "repo": "userguide",
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T16:34:23.569Z",
+    "last_updated": "2026-10-17T15:28:48.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
