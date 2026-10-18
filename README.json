@@ -26,7 +26,7 @@
                     "open_issues": 210,
                     "owner": "shd101wyy",
                     "repo": "markdown-preview-enhanced",
-                    "stars": 4446,
+                    "stars": 4447,
                     "topics": [
                       "atom",
                       "atom-package",
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T15:28:48.910Z",
+    "last_updated": "2026-10-18T15:48:39.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
