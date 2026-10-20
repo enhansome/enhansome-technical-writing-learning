@@ -6,6 +6,47 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Glim",
+              "description": "Free, MIT-licensed macOS file viewer with Markdown previews, diagrams, formulas and basic UTF-8 text editing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A free, open-source file viewer for macOS. Markdown, PDFs, images, JSON, CSV and code in one workspace. Apple Silicon & Intel.",
+                "homepage": "https://github.com/NeoPanic/Glim#download",
+                "id": 1411361734,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-10-20T12:01:32Z",
+                "open_issues": 24,
+                "owner": "NeoPanic",
+                "repo": "Glim",
+                "stars": 23,
+                "topics": [
+                  "csv-viewer",
+                  "desktop-app",
+                  "developer-tools",
+                  "epub-reader",
+                  "file-viewer",
+                  "git-diff",
+                  "gpui",
+                  "gpui-kit",
+                  "image-viewer",
+                  "json-viewer",
+                  "macos",
+                  "markdown",
+                  "markdown-viewer",
+                  "mermaid",
+                  "open-source",
+                  "pdf-viewer",
+                  "rust",
+                  "safetensors",
+                  "sqlite-viewer"
+                ]
+              },
+              "first_seen": "2026-10-20T16:58:05.950Z"
+            },
+            {
               "node_type": "group",
               "title": "Visual Studio Code (VS Code)",
               "description": "Code editor developed by Microsoft, with built-in Markdown preview and many Markdown extensions.",
@@ -26,7 +67,7 @@
                     "open_issues": 210,
                     "owner": "shd101wyy",
                     "repo": "markdown-preview-enhanced",
-                    "stars": 4448,
+                    "stars": 4450,
                     "topics": [
                       "atom",
                       "atom-package",
@@ -520,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T18:42:07.587Z",
+    "last_updated": "2026-10-20T16:58:05.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
@@ -528,8 +569,8 @@
       "id": 750118872,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-09-08T06:50:28Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-20T07:18:44Z",
+      "open_issues": 0,
       "owner": "wongyah",
       "repo": "awesome-technical-writing-learning",
       "stars": 53,
@@ -545,7 +586,7 @@
         "technical-writing"
       ]
     },
-    "original_repository_sha": "fd5bf3fc6d7862ac326823451b1fe0882e82a3d8",
+    "original_repository_sha": "52a3e615a642fbbbb533ab338df09060f5565ce2",
     "enhanced_repository": "enhansome/enhansome-technical-writing-learning",
     "enhanced_repository_description": null,
     "title": "Awesome Technical Writing Learning with stars"
