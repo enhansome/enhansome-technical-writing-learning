@@ -13,15 +13,15 @@
               "repo_info": {
                 "archived": false,
                 "description": "A free, open-source file viewer for macOS. Markdown, PDFs, images, JSON, CSV and code in one workspace. Apple Silicon & Intel.",
-                "homepage": "https://github.com/NeoPanic/Glim#download",
+                "homepage": "https://glimapp.github.io/",
                 "id": 1411361734,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-20T12:01:32Z",
-                "open_issues": 24,
-                "owner": "NeoPanic",
-                "repo": "Glim",
-                "stars": 23,
+                "last_commit": "2026-10-21T05:47:04Z",
+                "open_issues": 23,
+                "owner": "glimapp",
+                "repo": "glim",
+                "stars": 24,
                 "topics": [
                   "csv-viewer",
                   "desktop-app",
@@ -358,7 +358,7 @@
                     "id": 21857613,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-10-19T09:48:34Z",
+                    "last_commit": "2026-10-20T22:12:40Z",
                     "open_issues": 31,
                     "owner": "oxygenxml",
                     "repo": "userguide",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T16:58:05.950Z",
+    "last_updated": "2026-10-21T17:07:17.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
