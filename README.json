@@ -17,8 +17,8 @@
                 "id": 1411361734,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-21T20:10:52Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-23T13:17:43Z",
+                "open_issues": 24,
                 "owner": "glimapp",
                 "repo": "glim",
                 "stars": 24,
@@ -67,7 +67,7 @@
                     "open_issues": 210,
                     "owner": "shd101wyy",
                     "repo": "markdown-preview-enhanced",
-                    "stars": 4450,
+                    "stars": 4452,
                     "topics": [
                       "atom",
                       "atom-package",
@@ -99,7 +99,7 @@
                     "open_issues": 463,
                     "owner": "yzhang-gh",
                     "repo": "vscode-markdown",
-                    "stars": 3299,
+                    "stars": 3298,
                     "topics": [
                       "markdown",
                       "vscode"
@@ -123,7 +123,7 @@
                     "open_issues": 208,
                     "owner": "yzane",
                     "repo": "vscode-markdown-pdf",
-                    "stars": 1343,
+                    "stars": 1344,
                     "topics": [
                       "markdown",
                       "mermaid",
@@ -358,7 +358,7 @@
                     "id": 21857613,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-10-20T22:12:40Z",
+                    "last_commit": "2026-10-23T11:45:48Z",
                     "open_issues": 31,
                     "owner": "oxygenxml",
                     "repo": "userguide",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T17:06:30.715Z",
+    "last_updated": "2026-10-23T17:02:11.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
