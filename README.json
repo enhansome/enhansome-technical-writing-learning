@@ -17,7 +17,7 @@
                 "id": 1411361734,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-23T13:17:43Z",
+                "last_commit": "2026-10-23T19:57:26Z",
                 "open_issues": 24,
                 "owner": "glimapp",
                 "repo": "glim",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:02:11.526Z",
+    "last_updated": "2026-10-24T15:52:21.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
