@@ -161,7 +161,7 @@ Now, you know a bit about Markdown 👏.  It is easy-to-read, easy-to-write, and
 
 Can't wait to try it out? Just adopt a **✒️ Markdown editor**, then you are ready 💪!
 
-* [Glim](https://github.com/NeoPanic/Glim) ⭐ 28 | 🐛 24 | 🌐 Rust | 📅 2026-10-25 - Free, MIT-licensed macOS file viewer with Markdown previews, diagrams, formulas and basic UTF-8 text editing.
+* [Glim](https://github.com/NeoPanic/Glim) ⭐ 29 | 🐛 24 | 🌐 Rust | 📅 2026-10-25 - Free, MIT-licensed macOS file viewer with Markdown previews, diagrams, formulas and basic UTF-8 text editing.
 * [Dillinger](https://dillinger.io/) - In-browser Markdown editor. It can create new files, export files to Markdown, HTML, or PDF, synchronize with GitHub, Google Drive, or Dropbox repositories, etc.
 * [StackEdit](https://stackedit.io/) - In-browser Markdown editor with rich functions. It can create new files or folders, export the files to Markdown or HTML, synchronize with GitHub, Google Drive, or Dropbox accounts, etc.
 * [Visual Studio Code (VS Code)](https://code.visualstudio.com/) - Code editor developed by Microsoft, with built-in Markdown preview and many Markdown extensions.
@@ -183,7 +183,7 @@ As a result, whenever you select a new Markdown tool, you must read through its 
 * [Pandoc's Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - Markdown syntax of Pandoc, a universal document converter, which can convert between various formats.
 * [kramdown Quick Reference](https://kramdown.gettalong.org/quickref.html) and [kramdown Syntax](https://kramdown.gettalong.org/syntax.html) - Markdown syntax of kramdown, which is the default Markdown parser for Jekyll.
 
-If you want to explore more resources about Markdown, see [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) ⭐ 961 | 🐛 79 | 📅 2024-08-21.
+If you want to explore more resources about Markdown, see [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) ⭐ 962 | 🐛 79 | 📅 2024-08-21.
 
 ### reStructuredText
 
@@ -199,7 +199,7 @@ Now, you know a bit about reStructuredText 👏. Just adopt a **✒️ reStructu
 
 * [Online reStructuredText editor](https://rsted.info.ucl.ac.be/)
 * [Visual Studio Code (VS Code)](https://code.visualstudio.com/) - Code editor developed by Microsoft.
-  * [reStructuredText](https://github.com/vscode-restructuredtext/vscode-restructuredtext#readme) ⭐ 365 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-01 - An extension to provide rich reStructuredText language support in VS Code.
+  * [reStructuredText](https://github.com/vscode-restructuredtext/vscode-restructuredtext#readme) ⭐ 366 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-01 - An extension to provide rich reStructuredText language support in VS Code.
   * [reStructuredText Syntax Highlighting](https://github.com/trond-snekvik/vscode-rst#readme) ⭐ 22 | 🐛 5 | 🌐 TypeScript | 📅 2023-12-25 - An extension to provide rich syntax highlighting and non-intrusive section navigation for reStructuredText in VS Code.
 
 You may forget an infrequently used syntax or not sure about a specific syntax during writing. Pick a **📔 cheat sheet or reference documentation** at hand, which you will look for sooner or later.
@@ -244,7 +244,7 @@ That said, DITA is a bit complicated. Adopt a [DITA-aware XML editor](https://ww
 You can use DITA to improve your own technical documentation. If you don't have such resources, pick one of **📔 open source sample manuals written in DITA** to see how it was written and think how to improve it.
 
 * [DITA Open Toolkit Documentation](https://github.com/dita-ot/docs) ⭐ 64 | 🐛 19 | 🌐 XSLT | 📅 2026-08-21 - Source code for the DITA-OT documentation.
-* [Oxygen XML User Guide](https://github.com/oxygenxml/userguide) ⭐ 43 | 🐛 31 | 🌐 HTML | 📅 2026-10-25 - Source code for the Oxygen XML documentation.
+* [Oxygen XML User Guide](https://github.com/oxygenxml/userguide) ⭐ 43 | 🐛 31 | 🌐 HTML | 📅 2026-10-26 - Source code for the Oxygen XML documentation.
 * [DITA Mini Manual](https://github.com/flicstar/DITA-Mini-Manual#readme) ⭐ 22 | 🐛 0 | 📅 2014-12-23 - Mini owner's manual that published in 1960s rewritten in DITA.
 * [DITA Style Guide](https://github.com/hyperwrite/DITAStyleGuide) ⭐ 19 | 🐛 8 | 📅 2022-07-28 - Source code for The DITA Style Guide: Best Practices for Authors, written by Tony Self.
 * [LwDITA Code Samples](https://github.com/DITAWriter/LwDITA_Code_Samples#readme) ⭐ 11 | 🐛 1 | 🌐 HTML | 📅 2019-01-07 - Various manuals of a 1970s computer rewritten in Lightweight DITA.
@@ -416,4 +416,4 @@ Join a live talk or an in-person presentation to connect yourself with your peer
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
