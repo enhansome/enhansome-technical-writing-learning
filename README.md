@@ -161,13 +161,13 @@ Now, you know a bit about Markdown 👏.  It is easy-to-read, easy-to-write, and
 
 Can't wait to try it out? Just adopt a **✒️ Markdown editor**, then you are ready 💪!
 
-* [Glim](https://github.com/NeoPanic/Glim) ⭐ 29 | 🐛 24 | 🌐 Rust | 📅 2026-10-25 - Free, MIT-licensed macOS file viewer with Markdown previews, diagrams, formulas and basic UTF-8 text editing.
+* [Glim](https://github.com/NeoPanic/Glim) ⭐ 29 | 🐛 23 | 🌐 Rust | 📅 2026-10-27 - Free, MIT-licensed macOS file viewer with Markdown previews, diagrams, formulas and basic UTF-8 text editing.
 * [Dillinger](https://dillinger.io/) - In-browser Markdown editor. It can create new files, export files to Markdown, HTML, or PDF, synchronize with GitHub, Google Drive, or Dropbox repositories, etc.
 * [StackEdit](https://stackedit.io/) - In-browser Markdown editor with rich functions. It can create new files or folders, export the files to Markdown or HTML, synchronize with GitHub, Google Drive, or Dropbox accounts, etc.
 * [Visual Studio Code (VS Code)](https://code.visualstudio.com/) - Code editor developed by Microsoft, with built-in Markdown preview and many Markdown extensions.
   * [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced#readme) ⭐ 4,452 | 🐛 210 | 🌐 HTML | 📅 2026-10-09 - An extension to enrich Markdown features in Atom and VS Code, featuring the integration of Pandoc.
   * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,298 | 🐛 463 | 🌐 TypeScript | 📅 2026-06-13 - An extension to enrich Markdown features in VS Code, such as automatic creation of table of contents, auto completions, printing Markdown files to HTML.
-  * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf#readme) ⭐ 1,343 | 🐛 208 | 🌐 HTML | 📅 2026-10-22 - An extension to convert Markdown files to PDF, PNG, JPEG, or HTML.
+  * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf#readme) ⭐ 1,342 | 🐛 208 | 🌐 HTML | 📅 2026-10-22 - An extension to convert Markdown files to PDF, PNG, JPEG, or HTML.
   * [Markdown Table Maker](https://github.com/kaisugi/vscode-markdown-tablemaker?tab=readme-ov-file#readme) ⭐ 2 | 🐛 4 | 🌐 TypeScript | 📅 2022-12-08 - An extension to generate Markdown tables in an easy and intuitive way.
 
 If you go deeper, you will find [the controversy over Markdown](https://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/).
@@ -183,7 +183,7 @@ As a result, whenever you select a new Markdown tool, you must read through its 
 * [Pandoc's Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - Markdown syntax of Pandoc, a universal document converter, which can convert between various formats.
 * [kramdown Quick Reference](https://kramdown.gettalong.org/quickref.html) and [kramdown Syntax](https://kramdown.gettalong.org/syntax.html) - Markdown syntax of kramdown, which is the default Markdown parser for Jekyll.
 
-If you want to explore more resources about Markdown, see [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) ⭐ 962 | 🐛 79 | 📅 2024-08-21.
+If you want to explore more resources about Markdown, see [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) ⭐ 962 | 🐛 78 | 📅 2024-08-21.
 
 ### reStructuredText
 
@@ -244,7 +244,7 @@ That said, DITA is a bit complicated. Adopt a [DITA-aware XML editor](https://ww
 You can use DITA to improve your own technical documentation. If you don't have such resources, pick one of **📔 open source sample manuals written in DITA** to see how it was written and think how to improve it.
 
 * [DITA Open Toolkit Documentation](https://github.com/dita-ot/docs) ⭐ 64 | 🐛 19 | 🌐 XSLT | 📅 2026-08-21 - Source code for the DITA-OT documentation.
-* [Oxygen XML User Guide](https://github.com/oxygenxml/userguide) ⭐ 43 | 🐛 31 | 🌐 HTML | 📅 2026-10-26 - Source code for the Oxygen XML documentation.
+* [Oxygen XML User Guide](https://github.com/oxygenxml/userguide) ⭐ 43 | 🐛 31 | 🌐 HTML | 📅 2026-10-27 - Source code for the Oxygen XML documentation.
 * [DITA Mini Manual](https://github.com/flicstar/DITA-Mini-Manual#readme) ⭐ 22 | 🐛 0 | 📅 2014-12-23 - Mini owner's manual that published in 1960s rewritten in DITA.
 * [DITA Style Guide](https://github.com/hyperwrite/DITAStyleGuide) ⭐ 19 | 🐛 8 | 📅 2022-07-28 - Source code for The DITA Style Guide: Best Practices for Authors, written by Tony Self.
 * [LwDITA Code Samples](https://github.com/DITAWriter/LwDITA_Code_Samples#readme) ⭐ 11 | 🐛 1 | 🌐 HTML | 📅 2019-01-07 - Various manuals of a 1970s computer rewritten in Lightweight DITA.
@@ -263,7 +263,7 @@ DITA has much more elements than Markdown and reStructuredText. If you encounter
 
 If you like to stay current with DITA developments, visit the **📁 official repositories** in GitHub often.
 
-* [DITA Specification](https://github.com/oasis-tcs/dita) ⭐ 48 | 🐛 32 | 🌐 Python | 📅 2026-10-15 -  The official repository for the source files of the DITA specification developed and maintained by the DITA Technical Committee.
+* [DITA Specification](https://github.com/oasis-tcs/dita) ⭐ 48 | 🐛 31 | 🌐 Python | 📅 2026-10-27 -  The official repository for the source files of the DITA specification developed and maintained by the DITA Technical Committee.
 * [DITA Specializations](https://github.com/oasis-open/dita-specializations) ⭐ 7 | 🐛 2 | 📅 2024-06-25 - The official repository for DITA specializations that were developed by the DITA Technical Committee, but are no longer part of the DITA standard.
 * [Lightweight DITA Specification](https://kkgithub.com/oasis-tcs/dita-lwdita) -  The official repository for source files of the Lightweight DITA specification developed and maintained by the Lightweight DITA Subcommittee.
 
@@ -416,4 +416,4 @@ Join a live talk or an in-person presentation to connect yourself with your peer
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
