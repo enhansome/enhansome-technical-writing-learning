@@ -17,8 +17,8 @@
                 "id": 1411361734,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-28T07:48:22Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-29T06:49:00Z",
+                "open_issues": 24,
                 "owner": "glimapp",
                 "repo": "glim",
                 "stars": 29,
@@ -67,7 +67,7 @@
                     "open_issues": 210,
                     "owner": "shd101wyy",
                     "repo": "markdown-preview-enhanced",
-                    "stars": 4454,
+                    "stars": 4455,
                     "topics": [
                       "atom",
                       "atom-package",
@@ -96,10 +96,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-06-13T04:49:10Z",
-                    "open_issues": 463,
+                    "open_issues": 465,
                     "owner": "yzhang-gh",
                     "repo": "vscode-markdown",
-                    "stars": 3298,
+                    "stars": 3299,
                     "topics": [
                       "markdown",
                       "vscode"
@@ -123,7 +123,7 @@
                     "open_issues": 208,
                     "owner": "yzane",
                     "repo": "vscode-markdown-pdf",
-                    "stars": 1342,
+                    "stars": 1343,
                     "topics": [
                       "markdown",
                       "mermaid",
@@ -358,7 +358,7 @@
                     "id": 21857613,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-10-28T11:22:59Z",
+                    "last_commit": "2026-10-29T14:30:03Z",
                     "open_issues": 31,
                     "owner": "oxygenxml",
                     "repo": "userguide",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T18:19:27.411Z",
+    "last_updated": "2026-10-29T18:26:10.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
