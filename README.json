@@ -17,7 +17,7 @@
                 "id": 1411361734,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-29T06:49:00Z",
+                "last_commit": "2026-10-30T15:47:49Z",
                 "open_issues": 24,
                 "owner": "glimapp",
                 "repo": "glim",
@@ -67,7 +67,7 @@
                     "open_issues": 210,
                     "owner": "shd101wyy",
                     "repo": "markdown-preview-enhanced",
-                    "stars": 4455,
+                    "stars": 4456,
                     "topics": [
                       "atom",
                       "atom-package",
@@ -99,7 +99,7 @@
                     "open_issues": 465,
                     "owner": "yzhang-gh",
                     "repo": "vscode-markdown",
-                    "stars": 3299,
+                    "stars": 3298,
                     "topics": [
                       "markdown",
                       "vscode"
@@ -123,7 +123,7 @@
                     "open_issues": 208,
                     "owner": "yzane",
                     "repo": "vscode-markdown-pdf",
-                    "stars": 1343,
+                    "stars": 1344,
                     "topics": [
                       "markdown",
                       "mermaid",
@@ -252,7 +252,7 @@
                 "open_issues": 1,
                 "owner": "ralsina",
                 "repo": "rst-cheatsheet",
-                "stars": 1155,
+                "stars": 1156,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:35.995Z"
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T18:26:10.037Z",
+    "last_updated": "2026-10-30T17:58:43.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
