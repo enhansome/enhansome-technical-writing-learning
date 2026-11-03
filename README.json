@@ -12,16 +12,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A free, open-source file viewer for macOS. Markdown, PDFs, images, JSON, CSV and code in one workspace. Apple Silicon & Intel.",
+                "description": "A free, open-source file viewer for macOS.",
                 "homepage": "https://glimapp.github.io/",
                 "id": 1411361734,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-02T10:49:36Z",
+                "last_commit": "2026-11-03T10:48:50Z",
                 "open_issues": 24,
                 "owner": "glimapp",
                 "repo": "glim",
-                "stars": 32,
+                "stars": 37,
                 "topics": [
                   "csv-viewer",
                   "desktop-app",
@@ -358,7 +358,7 @@
                     "id": 21857613,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-10-29T14:30:03Z",
+                    "last_commit": "2026-11-03T14:17:52Z",
                     "open_issues": 31,
                     "owner": "oxygenxml",
                     "repo": "userguide",
@@ -520,7 +520,7 @@
                     "open_issues": 31,
                     "owner": "oasis-tcs",
                     "repo": "dita",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T21:40:55.451Z",
+    "last_updated": "2026-11-03T19:27:54.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
