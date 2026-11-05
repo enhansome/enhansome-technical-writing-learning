@@ -17,11 +17,11 @@
                 "id": 1411361734,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-04T10:21:29Z",
+                "last_commit": "2026-11-05T11:00:13Z",
                 "open_issues": 24,
                 "owner": "glimapp",
                 "repo": "glim",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "csv-viewer",
                   "desktop-app",
@@ -67,7 +67,7 @@
                     "open_issues": 210,
                     "owner": "shd101wyy",
                     "repo": "markdown-preview-enhanced",
-                    "stars": 4456,
+                    "stars": 4457,
                     "topics": [
                       "atom",
                       "atom-package",
@@ -99,7 +99,7 @@
                     "open_issues": 466,
                     "owner": "yzhang-gh",
                     "repo": "vscode-markdown",
-                    "stars": 3299,
+                    "stars": 3300,
                     "topics": [
                       "markdown",
                       "vscode"
@@ -123,7 +123,7 @@
                     "open_issues": 208,
                     "owner": "yzane",
                     "repo": "vscode-markdown-pdf",
-                    "stars": 1344,
+                    "stars": 1346,
                     "topics": [
                       "markdown",
                       "mermaid",
@@ -252,7 +252,7 @@
                 "open_issues": 1,
                 "owner": "ralsina",
                 "repo": "rst-cheatsheet",
-                "stars": 1156,
+                "stars": 1157,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:35.995Z"
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T19:42:25.309Z",
+    "last_updated": "2026-11-05T19:53:30.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
