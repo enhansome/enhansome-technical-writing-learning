@@ -17,11 +17,11 @@
                 "id": 1411361734,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-08T20:29:23Z",
+                "last_commit": "2026-11-10T00:15:49Z",
                 "open_issues": 25,
                 "owner": "glimapp",
                 "repo": "glim",
-                "stars": 40,
+                "stars": 42,
                 "topics": [
                   "csv-viewer",
                   "desktop-app",
@@ -99,7 +99,7 @@
                     "open_issues": 466,
                     "owner": "yzhang-gh",
                     "repo": "vscode-markdown",
-                    "stars": 3295,
+                    "stars": 3294,
                     "topics": [
                       "markdown",
                       "vscode"
@@ -193,7 +193,7 @@
                     "open_issues": 12,
                     "owner": "vscode-restructuredtext",
                     "repo": "vscode-restructuredtext",
-                    "stars": 366,
+                    "stars": 367,
                     "topics": [
                       "documentation-tool",
                       "linter",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T22:16:43.669Z",
+    "last_updated": "2026-11-10T19:40:43.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
