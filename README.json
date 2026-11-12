@@ -17,11 +17,11 @@
                 "id": 1411361734,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-11T13:40:38Z",
+                "last_commit": "2026-11-12T09:12:06Z",
                 "open_issues": 23,
                 "owner": "glimapp",
                 "repo": "glim",
-                "stars": 42,
+                "stars": 43,
                 "topics": [
                   "csv-viewer",
                   "desktop-app",
@@ -99,7 +99,7 @@
                     "open_issues": 466,
                     "owner": "yzhang-gh",
                     "repo": "vscode-markdown",
-                    "stars": 3294,
+                    "stars": 3293,
                     "topics": [
                       "markdown",
                       "vscode"
@@ -120,7 +120,7 @@
                     "language": "HTML",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-01T00:14:04Z",
-                    "open_issues": 209,
+                    "open_issues": 208,
                     "owner": "yzane",
                     "repo": "vscode-markdown-pdf",
                     "stars": 1345,
@@ -358,7 +358,7 @@
                     "id": 21857613,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-11-11T14:32:53Z",
+                    "last_commit": "2026-11-12T09:00:56Z",
                     "open_issues": 31,
                     "owner": "oxygenxml",
                     "repo": "userguide",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T19:33:07.813Z",
+    "last_updated": "2026-11-12T19:51:52.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
