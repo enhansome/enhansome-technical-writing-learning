@@ -17,11 +17,11 @@
                 "id": 1411361734,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-12T09:12:06Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-13T10:44:07Z",
+                "open_issues": 24,
                 "owner": "glimapp",
                 "repo": "glim",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "csv-viewer",
                   "desktop-app",
@@ -67,7 +67,7 @@
                     "open_issues": 210,
                     "owner": "shd101wyy",
                     "repo": "markdown-preview-enhanced",
-                    "stars": 4458,
+                    "stars": 4459,
                     "topics": [
                       "atom",
                       "atom-package",
@@ -520,7 +520,7 @@
                     "open_issues": 31,
                     "owner": "oasis-tcs",
                     "repo": "dita",
-                    "stars": 49,
+                    "stars": 50,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:15:35.995Z"
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T19:51:52.469Z",
+    "last_updated": "2026-11-13T19:36:48.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
