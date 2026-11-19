@@ -17,11 +17,11 @@
                 "id": 1411361734,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-18T09:36:54Z",
+                "last_commit": "2026-11-19T07:33:59Z",
                 "open_issues": 23,
                 "owner": "glimapp",
                 "repo": "glim",
-                "stars": 46,
+                "stars": 47,
                 "topics": [
                   "csv-viewer",
                   "desktop-app",
@@ -123,7 +123,7 @@
                     "open_issues": 208,
                     "owner": "yzane",
                     "repo": "vscode-markdown-pdf",
-                    "stars": 1345,
+                    "stars": 1344,
                     "topics": [
                       "markdown",
                       "mermaid",
@@ -193,7 +193,7 @@
                     "open_issues": 12,
                     "owner": "vscode-restructuredtext",
                     "repo": "vscode-restructuredtext",
-                    "stars": 367,
+                    "stars": 366,
                     "topics": [
                       "documentation-tool",
                       "linter",
@@ -252,7 +252,7 @@
                 "open_issues": 1,
                 "owner": "ralsina",
                 "repo": "rst-cheatsheet",
-                "stars": 1156,
+                "stars": 1154,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:35.995Z"
@@ -358,7 +358,7 @@
                     "id": 21857613,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-11-18T15:56:26Z",
+                    "last_commit": "2026-11-19T12:21:54Z",
                     "open_issues": 31,
                     "owner": "oxygenxml",
                     "repo": "userguide",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T20:26:04.572Z",
+    "last_updated": "2026-11-19T20:29:41.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
