@@ -17,8 +17,8 @@
                 "id": 1411361734,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-19T07:33:59Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-19T23:03:35Z",
+                "open_issues": 22,
                 "owner": "glimapp",
                 "repo": "glim",
                 "stars": 47,
@@ -99,7 +99,7 @@
                     "open_issues": 467,
                     "owner": "yzhang-gh",
                     "repo": "vscode-markdown",
-                    "stars": 3292,
+                    "stars": 3291,
                     "topics": [
                       "markdown",
                       "vscode"
@@ -120,7 +120,7 @@
                     "language": "HTML",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-01T00:14:04Z",
-                    "open_issues": 208,
+                    "open_issues": 209,
                     "owner": "yzane",
                     "repo": "vscode-markdown-pdf",
                     "stars": 1344,
@@ -517,7 +517,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-16T19:41:23Z",
-                    "open_issues": 31,
+                    "open_issues": 32,
                     "owner": "oasis-tcs",
                     "repo": "dita",
                     "stars": 50,
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T20:29:41.365Z",
+    "last_updated": "2026-11-20T20:05:53.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
