@@ -161,7 +161,7 @@ Now, you know a bit about Markdown 👏.  It is easy-to-read, easy-to-write, and
 
 Can't wait to try it out? Just adopt a **✒️ Markdown editor**, then you are ready 💪!
 
-* [Glim](https://github.com/NeoPanic/Glim) ⭐ 49 | 🐛 20 | 🌐 Rust | 📅 2026-11-26 - Free, MIT-licensed macOS file viewer with Markdown previews, diagrams, formulas and basic UTF-8 text editing.
+* [Glim](https://github.com/NeoPanic/Glim) ⭐ 49 | 🐛 20 | 🌐 Rust | 📅 2026-11-27 - Free, MIT-licensed macOS file viewer with Markdown previews, diagrams, formulas and basic UTF-8 text editing.
 * [Dillinger](https://dillinger.io/) - In-browser Markdown editor. It can create new files, export files to Markdown, HTML, or PDF, synchronize with GitHub, Google Drive, or Dropbox repositories, etc.
 * [StackEdit](https://stackedit.io/) - In-browser Markdown editor with rich functions. It can create new files or folders, export the files to Markdown or HTML, synchronize with GitHub, Google Drive, or Dropbox accounts, etc.
 * [Visual Studio Code (VS Code)](https://code.visualstudio.com/) - Code editor developed by Microsoft, with built-in Markdown preview and many Markdown extensions.
@@ -199,7 +199,7 @@ Now, you know a bit about reStructuredText 👏. Just adopt a **✒️ reStructu
 
 * [Online reStructuredText editor](https://rsted.info.ucl.ac.be/)
 * [Visual Studio Code (VS Code)](https://code.visualstudio.com/) - Code editor developed by Microsoft.
-  * [reStructuredText](https://github.com/vscode-restructuredtext/vscode-restructuredtext#readme) ⭐ 366 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-22 - An extension to provide rich reStructuredText language support in VS Code.
+  * [reStructuredText](https://github.com/vscode-restructuredtext/vscode-restructuredtext#readme) ⭐ 366 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-27 - An extension to provide rich reStructuredText language support in VS Code.
   * [reStructuredText Syntax Highlighting](https://github.com/trond-snekvik/vscode-rst#readme) ⭐ 22 | 🐛 5 | 🌐 TypeScript | 📅 2023-12-25 - An extension to provide rich syntax highlighting and non-intrusive section navigation for reStructuredText in VS Code.
 
 You may forget an infrequently used syntax or not sure about a specific syntax during writing. Pick a **📔 cheat sheet or reference documentation** at hand, which you will look for sooner or later.
@@ -416,4 +416,4 @@ Join a live talk or an in-person presentation to connect yourself with your peer
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

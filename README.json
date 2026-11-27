@@ -17,7 +17,7 @@
                 "id": 1411361734,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-26T00:22:11Z",
+                "last_commit": "2026-11-27T00:36:13Z",
                 "open_issues": 20,
                 "owner": "glimapp",
                 "repo": "glim",
@@ -189,8 +189,8 @@
                     "id": 46862173,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-22T01:57:01Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-11-27T01:02:23Z",
+                    "open_issues": 12,
                     "owner": "vscode-restructuredtext",
                     "repo": "vscode-restructuredtext",
                     "stars": 366,
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T21:26:32.185Z",
+    "last_updated": "2026-11-27T21:09:46.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome and free resources about technical writing.",
